@@ -1,5 +1,3 @@
-// api/application.go
-
 package api
 
 import (
